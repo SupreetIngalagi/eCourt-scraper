@@ -1,0 +1,490 @@
+2025-10-15 11:41:11,526 - INFO - Searching by CNR...
+2025-10-15 11:41:11,527 - INFO - Searching for case with CNR: TEST123
+2025-10-15 11:41:11,534 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:41:21,013 - INFO - Fetching cause list...
+2025-10-15 11:41:21,014 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 11:41:21,019 - INFO - Cause list saved to: demo_output\cause_list.csv
+2025-10-15 11:41:21,029 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:41:40,042 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 11:41:40,114 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 11:41:40,140 - INFO -  * Restarting with stat
+2025-10-15 11:41:43,378 - WARNING -  * Debugger is active!
+2025-10-15 11:41:43,396 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 11:42:15,748 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\test_scraper.py', reloading
+2025-10-15 11:42:16,222 - INFO -  * Restarting with stat
+2025-10-15 11:42:18,220 - WARNING -  * Debugger is active!
+2025-10-15 11:42:18,235 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 11:43:40,044 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\setup.py', reloading
+2025-10-15 11:43:40,176 - INFO -  * Restarting with stat
+2025-10-15 11:43:41,709 - WARNING -  * Debugger is active!
+2025-10-15 11:43:41,723 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 11:44:48,390 - INFO - Searching by CNR...
+2025-10-15 11:44:48,392 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:44:48,407 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:44:50,038 - INFO - Searching by case details...
+2025-10-15 11:44:50,039 - INFO - Searching for case: Civil/12345/2023
+2025-10-15 11:44:50,054 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:44:51,668 - INFO - Fetching cause list...
+2025-10-15 11:44:51,669 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 11:44:51,672 - INFO - Cause list saved to: demo_output\cause_list.csv
+2025-10-15 11:44:51,675 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:44:53,516 - INFO - Searching by CNR...
+2025-10-15 11:44:53,517 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:44:53,536 - ERROR - Error downloading PDF: [Errno 2] No such file or directory: 'demo_output\\case_12345/2023.pdf'
+2025-10-15 11:44:53,554 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:44:55,715 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:44:55,719 - INFO - Searching for case: Civil/12345/2023
+2025-10-15 11:44:55,734 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 11:44:55,752 - INFO - Results saved to: demo_results.json
+2025-10-15 11:44:55,763 - INFO - Cause list saved to: demo_cause_list.csv
+2025-10-15 11:45:02,231 - INFO - Searching for case with CNR: INVALID_CNR
+2025-10-15 11:45:02,239 - INFO - Searching for case: //
+2025-10-15 11:45:53,615 - INFO - Searching by CNR...
+2025-10-15 11:45:53,616 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:45:53,621 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:45:54,580 - INFO - Searching by case details...
+2025-10-15 11:45:54,581 - INFO - Searching for case: Civil/12345/2023
+2025-10-15 11:45:54,585 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:45:55,618 - INFO - Fetching cause list...
+2025-10-15 11:45:55,618 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 11:45:55,622 - INFO - Cause list saved to: demo_output\cause_list.csv
+2025-10-15 11:45:55,624 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:45:56,563 - INFO - Searching by CNR...
+2025-10-15 11:45:56,564 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:45:56,568 - ERROR - Error downloading PDF: [Errno 2] No such file or directory: 'demo_output\\case_12345/2023.pdf'
+2025-10-15 11:45:56,570 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:45:58,664 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:45:58,668 - INFO - Searching for case: Civil/12345/2023
+2025-10-15 11:45:58,674 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 11:45:58,693 - INFO - Results saved to: demo_results.json
+2025-10-15 11:45:58,719 - INFO - Cause list saved to: demo_cause_list.csv
+2025-10-15 11:46:05,091 - INFO - Searching for case with CNR: INVALID_CNR
+2025-10-15 11:46:05,093 - INFO - Searching for case: //
+2025-10-15 11:47:49,210 - INFO - Searching by CNR...
+2025-10-15 11:47:49,211 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:47:49,221 - INFO - PDF downloaded to: demo_output\case_12345_2023.pdf
+2025-10-15 11:47:49,227 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:49:50,544 - INFO - Searching by CNR...
+2025-10-15 11:49:50,555 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 11:49:50,560 - INFO - PDF downloaded to: demo_output\case_12345_2023.pdf
+2025-10-15 11:49:50,562 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:50:01,136 - INFO - Fetching cause list...
+2025-10-15 11:50:01,137 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 11:50:01,141 - INFO - Cause list saved to: demo_output\cause_list.csv
+2025-10-15 11:50:01,144 - INFO - Results saved to: demo_output\results.json
+2025-10-15 11:50:21,146 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 11:50:21,147 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 11:50:21,165 - INFO -  * Restarting with stat
+2025-10-15 11:50:22,362 - WARNING -  * Debugger is active!
+2025-10-15 11:50:22,373 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 11:51:37,727 - INFO - 127.0.0.1 - - [15/Oct/2025 11:51:37] "GET / HTTP/1.1" 200 -
+2025-10-15 11:51:37,862 - INFO - 127.0.0.1 - - [15/Oct/2025 11:51:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 11:55:16,866 - ERROR - 192.168.1.11 - - [15/Oct/2025 11:55:16] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2025-10-15 11:55:16,880 - INFO - 192.168.1.11 - - [15/Oct/2025 11:55:16] "[31m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03ß\x90¢ÅZ\x8bËëòE\x16±\x0e²!^½À\x99\x00­\x04* .\x0d\x05'"¾¢Í 0\x9fÏ\x8a]A^K6æù+òAé\x98#_\x03?è\x1aV\\×\x86\x00\\3ïTí\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ªª\x00\x00\x00\x0b\x00\x02\x01\x00\x00[0m" 400 -
+2025-10-15 11:55:16,896 - ERROR - 192.168.1.11 - - [15/Oct/2025 11:55:16] code 400, message Bad request version ('¸|\x08óàD"ê')
+2025-10-15 11:55:16,905 - INFO - 192.168.1.11 - - [15/Oct/2025 11:55:16] "[31m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03}.\x02{d\x04\x07uc\x19¤üüaPæ<±Þ\x8f]\x99\x86t¶ê\x1cE\x9f+Ñq \x9f©ÇàÏ\x03Ør\x90ºzü\x96fG\x1bÖ÷é\x88L\x07¨=~E*Ô\x11f?\x17\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SÊÊ\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01ù\x00 ùø/²¥\x957ïÆÛÜæ©.·¡\x11¼t\x15\x00h\x86øÆBK¶ÿ©Ãq\x00°¡¶vç\x1f³ÚJáE$\x9bï\x8c\x1cT\x08ýÍÈ£©`\x0f\x1b\x8d\x13¹à\x0eòÙ¥Ü\x05Êì=%OV\x10ëÁYÕ,eu)ëþfvz89ÓÐå\x046Â=)\x9cÑC¾\x0bz\x16\x91"\x14K\x05ßÎ+}\x00¸\x97\x87U£ÇûRQ2(\x8d&\x97\x9fôÍ¾ÙªB\x1e>Ø·Ðé'\x19RF\x89\x00¼'}rÌz\x98»\x1fa"ç&\x17kLö1ùê}"òi/\x82(\x88\x18\x14ô\x199b(K\x9e½àL(¨qþ½¿ÃÄ'¸^\x18\x98A~ÝÇ·»Õw\x003\x04ï\x04íêê\x00\x01\x00\x11ì\x04Àf\x9bÁç£-'µ\x0dâ¢\x0f¸¨eØÄKt\x13*eS#æö\x7fZkaÙ\x840'\x03\x8a\x8eE/×:\x17É´\x8f¯ÇXev\x05¡ë%çW\x9c=Ù\x96\x1d\x12È\x18»*'\x00}Æ\x09¾\x19T\x87 +\x94½e%jZV\x11\x86\x01Ø¹Y¥¡\x0cÈú\x9eo#\x8cÁ¹'ÈÂ\x148¦\x9e÷D±ïÚ\x17Þ\x094É\x951]ä\x99Mè¤´u\x94Ú'¨+á\x9fQ\x86)\x1aWgµ0HT"±Ù\x12»¯µ(\x95Yj ¸g\x8fÖn\x13ÉJø\x0b\x8d\x1bF-4jËÏøX2\x07oú£ÉüÇr'\x0b-nòp\x8bË<óÛ¿ðb@£¹»¶Ñ8ïX)\x07x6ä¥\x98ñ\x1c\x88Õ¶iî&¸\x85¥#æl#\x81\\ ¸|\x08óàD"ê[0m" 400 -
+2025-10-15 11:55:20,113 - INFO - 192.168.1.11 - - [15/Oct/2025 11:55:20] "GET / HTTP/1.1" 200 -
+2025-10-15 11:55:20,264 - INFO - 192.168.1.11 - - [15/Oct/2025 11:55:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 11:55:50,785 - INFO - 127.0.0.1 - - [15/Oct/2025 11:55:50] "GET / HTTP/1.1" 200 -
+2025-10-15 12:04:21,224 - INFO - Searching by CNR...
+2025-10-15 12:04:21,225 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 12:04:21,231 - INFO - PDF downloaded to: demo_output\case_12345_2023.pdf
+2025-10-15 12:04:21,234 - INFO - Results saved to: demo_output\results.json
+2025-10-15 12:04:34,471 - INFO - Fetching cause list...
+2025-10-15 12:04:34,473 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 12:04:34,478 - INFO - Cause list saved to: demo_output\cause_list.csv
+2025-10-15 12:04:34,480 - INFO - Results saved to: demo_output\results.json
+2025-10-15 12:05:28,810 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 12:05:28,814 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 12:05:28,817 - INFO -  * Restarting with stat
+2025-10-15 12:05:29,976 - WARNING -  * Debugger is active!
+2025-10-15 12:05:29,986 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:05:34,684 - INFO - 127.0.0.1 - - [15/Oct/2025 12:05:34] "GET / HTTP/1.1" 200 -
+2025-10-15 12:06:03,109 - INFO - 127.0.0.1 - - [15/Oct/2025 12:06:03] "GET / HTTP/1.1" 200 -
+2025-10-15 12:06:14,135 - INFO - 127.0.0.1 - - [15/Oct/2025 12:06:14] "GET / HTTP/1.1" 200 -
+2025-10-15 12:07:47,334 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:07:47,831 - INFO -  * Restarting with stat
+2025-10-15 12:07:51,541 - WARNING -  * Debugger is active!
+2025-10-15 12:07:51,580 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:08:02,317 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 12:08:02,318 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 12:08:02,321 - INFO -  * Restarting with stat
+2025-10-15 12:08:03,430 - WARNING -  * Debugger is active!
+2025-10-15 12:08:03,441 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:08:03,858 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:08:04,058 - INFO -  * Restarting with stat
+2025-10-15 12:08:04,511 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:08:04,809 - INFO -  * Restarting with stat
+2025-10-15 12:08:05,706 - WARNING -  * Debugger is active!
+2025-10-15 12:08:05,721 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:08:06,123 - WARNING -  * Debugger is active!
+2025-10-15 12:08:06,133 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:08:27,352 - INFO - 127.0.0.1 - - [15/Oct/2025 12:08:27] "GET / HTTP/1.1" 200 -
+2025-10-15 12:10:42,009 - INFO - 127.0.0.1 - - [15/Oct/2025 12:10:42] "GET / HTTP/1.1" 200 -
+2025-10-15 12:10:42,100 - INFO - 127.0.0.1 - - [15/Oct/2025 12:10:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 12:10:43,046 - INFO - 127.0.0.1 - - [15/Oct/2025 12:10:43] "GET / HTTP/1.1" 200 -
+2025-10-15 12:10:43,132 - INFO - 127.0.0.1 - - [15/Oct/2025 12:10:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 12:10:43,305 - INFO - 127.0.0.1 - - [15/Oct/2025 12:10:43] "GET / HTTP/1.1" 200 -
+2025-10-15 12:10:43,373 - INFO - 127.0.0.1 - - [15/Oct/2025 12:10:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 12:12:29,164 - INFO - 127.0.0.1 - - [15/Oct/2025 12:12:29] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-15 12:13:59,420 - INFO - 127.0.0.1 - - [15/Oct/2025 12:13:59] "GET / HTTP/1.1" 200 -
+2025-10-15 12:14:00,187 - INFO - 127.0.0.1 - - [15/Oct/2025 12:14:00] "GET / HTTP/1.1" 200 -
+2025-10-15 12:14:53,796 - INFO - 127.0.0.1 - - [15/Oct/2025 12:14:53] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-15 12:15:39,472 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 12:15:39,476 - INFO - Cause list saved to: cause_list_20251015_121539.csv
+2025-10-15 12:15:39,481 - INFO - 127.0.0.1 - - [15/Oct/2025 12:15:39] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 12:17:30,500 - INFO - 127.0.0.1 - - [15/Oct/2025 12:17:30] "GET /download/cause_list_20251015_121539.csv HTTP/1.1" 200 -
+2025-10-15 12:19:39,489 - INFO - 127.0.0.1 - - [15/Oct/2025 12:19:39] "GET / HTTP/1.1" 200 -
+2025-10-15 12:19:40,022 - INFO - 127.0.0.1 - - [15/Oct/2025 12:19:40] "GET / HTTP/1.1" 200 -
+2025-10-15 12:19:40,365 - INFO - 127.0.0.1 - - [15/Oct/2025 12:19:40] "GET / HTTP/1.1" 200 -
+2025-10-15 12:19:40,551 - INFO - 127.0.0.1 - - [15/Oct/2025 12:19:40] "GET / HTTP/1.1" 200 -
+2025-10-15 12:19:40,696 - INFO - 127.0.0.1 - - [15/Oct/2025 12:19:40] "GET / HTTP/1.1" 200 -
+2025-10-15 12:19:40,855 - INFO - 127.0.0.1 - - [15/Oct/2025 12:19:40] "GET / HTTP/1.1" 200 -
+2025-10-15 12:24:09,853 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:24:09,853 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:24:10,153 - INFO -  * Restarting with stat
+2025-10-15 12:24:10,174 - INFO -  * Restarting with stat
+2025-10-15 12:24:12,143 - WARNING -  * Debugger is active!
+2025-10-15 12:24:12,160 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:24:12,521 - WARNING -  * Debugger is active!
+2025-10-15 12:24:12,534 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:24:16,292 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:24:16,446 - INFO -  * Restarting with stat
+2025-10-15 12:24:16,637 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:24:16,865 - INFO -  * Restarting with stat
+2025-10-15 12:24:18,546 - WARNING -  * Debugger is active!
+2025-10-15 12:24:18,563 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:24:18,812 - WARNING -  * Debugger is active!
+2025-10-15 12:24:18,828 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:24:38,767 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 12:24:38,768 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 12:24:38,771 - INFO -  * Restarting with stat
+2025-10-15 12:24:40,014 - WARNING -  * Debugger is active!
+2025-10-15 12:24:40,025 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:24:44,019 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:24:44,155 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:24:44,346 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:24:44,368 - INFO -  * Restarting with stat
+2025-10-15 12:24:44,529 - INFO -  * Restarting with stat
+2025-10-15 12:24:44,685 - INFO -  * Restarting with stat
+2025-10-15 12:24:46,295 - WARNING -  * Debugger is active!
+2025-10-15 12:24:46,310 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:24:46,320 - WARNING -  * Debugger is active!
+2025-10-15 12:24:46,337 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:24:46,878 - WARNING -  * Debugger is active!
+2025-10-15 12:24:46,893 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:25:06,009 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:06,164 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:06,340 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:06,512 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:06,664 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:06,801 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:06,924 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:07,066 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:07] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:07,209 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:07] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:07,417 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:07] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:07,589 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:07] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:07,726 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:07] "GET / HTTP/1.1" 200 -
+2025-10-15 12:25:07,886 - INFO - 127.0.0.1 - - [15/Oct/2025 12:25:07] "GET / HTTP/1.1" 200 -
+2025-10-15 12:26:28,889 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:26:28,933 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:26:29,272 - INFO -  * Restarting with stat
+2025-10-15 12:26:29,309 - INFO -  * Restarting with stat
+2025-10-15 12:26:29,534 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:26:30,065 - INFO -  * Restarting with stat
+2025-10-15 12:26:32,168 - WARNING -  * Debugger is active!
+2025-10-15 12:26:32,197 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:26:32,422 - WARNING -  * Debugger is active!
+2025-10-15 12:26:32,437 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:26:32,478 - WARNING -  * Debugger is active!
+2025-10-15 12:26:32,495 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:26:35,334 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:26:35,544 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:26:35,624 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:26:35,729 - INFO -  * Restarting with stat
+2025-10-15 12:26:35,933 - INFO -  * Restarting with stat
+2025-10-15 12:26:35,972 - INFO -  * Restarting with stat
+2025-10-15 12:26:37,865 - WARNING -  * Debugger is active!
+2025-10-15 12:26:37,887 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:26:38,044 - WARNING -  * Debugger is active!
+2025-10-15 12:26:38,063 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:26:38,079 - WARNING -  * Debugger is active!
+2025-10-15 12:26:38,095 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:26:54,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 12:26:54,886 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 12:26:54,890 - INFO -  * Restarting with stat
+2025-10-15 12:26:56,033 - WARNING -  * Debugger is active!
+2025-10-15 12:26:56,045 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:27:09,588 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:27:09,648 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:27:09,858 - INFO -  * Restarting with stat
+2025-10-15 12:27:09,923 - INFO -  * Restarting with stat
+2025-10-15 12:27:10,361 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:27:10,520 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:27:11,102 - INFO -  * Restarting with stat
+2025-10-15 12:27:11,125 - INFO -  * Restarting with stat
+2025-10-15 12:27:13,773 - WARNING -  * Debugger is active!
+2025-10-15 12:27:13,886 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:27:13,928 - WARNING -  * Debugger is active!
+2025-10-15 12:27:13,989 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:27:14,619 - WARNING -  * Debugger is active!
+2025-10-15 12:27:14,634 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:27:14,738 - WARNING -  * Debugger is active!
+2025-10-15 12:27:14,754 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:27:21,265 - INFO - 127.0.0.1 - - [15/Oct/2025 12:27:21] "GET / HTTP/1.1" 200 -
+2025-10-15 12:27:21,412 - INFO - 127.0.0.1 - - [15/Oct/2025 12:27:21] "GET / HTTP/1.1" 200 -
+2025-10-15 12:27:21,582 - INFO - 127.0.0.1 - - [15/Oct/2025 12:27:21] "GET / HTTP/1.1" 200 -
+2025-10-15 12:27:21,768 - INFO - 127.0.0.1 - - [15/Oct/2025 12:27:21] "GET / HTTP/1.1" 200 -
+2025-10-15 12:27:23,358 - INFO - 127.0.0.1 - - [15/Oct/2025 12:27:23] "GET / HTTP/1.1" 200 -
+2025-10-15 12:27:23,426 - INFO - 127.0.0.1 - - [15/Oct/2025 12:27:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 12:27:44,426 - INFO - 127.0.0.1 - - [15/Oct/2025 12:27:44] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-15 12:28:24,408 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:24,416 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:24,668 - INFO -  * Restarting with stat
+2025-10-15 12:28:24,676 - INFO -  * Restarting with stat
+2025-10-15 12:28:24,976 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:24,983 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:25,497 - INFO -  * Restarting with stat
+2025-10-15 12:28:25,501 - INFO -  * Restarting with stat
+2025-10-15 12:28:27,973 - WARNING -  * Debugger is active!
+2025-10-15 12:28:27,989 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:28,208 - WARNING -  * Debugger is active!
+2025-10-15 12:28:28,223 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:28,224 - WARNING -  * Debugger is active!
+2025-10-15 12:28:28,239 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:28,482 - WARNING -  * Debugger is active!
+2025-10-15 12:28:28,497 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:32,601 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:32,820 - INFO -  * Restarting with stat
+2025-10-15 12:28:33,223 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:33,388 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:33,401 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:33,882 - INFO -  * Restarting with stat
+2025-10-15 12:28:33,910 - INFO -  * Restarting with stat
+2025-10-15 12:28:33,952 - INFO -  * Restarting with stat
+2025-10-15 12:28:35,338 - WARNING -  * Debugger is active!
+2025-10-15 12:28:35,355 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:35,824 - WARNING -  * Debugger is active!
+2025-10-15 12:28:35,837 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:35,849 - WARNING -  * Debugger is active!
+2025-10-15 12:28:35,858 - WARNING -  * Debugger is active!
+2025-10-15 12:28:35,863 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:35,873 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:39,486 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:39,636 - INFO -  * Restarting with stat
+2025-10-15 12:28:40,017 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:40,065 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:40,082 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\web_interface.py', reloading
+2025-10-15 12:28:40,397 - INFO -  * Restarting with stat
+2025-10-15 12:28:40,426 - INFO -  * Restarting with stat
+2025-10-15 12:28:40,468 - INFO -  * Restarting with stat
+2025-10-15 12:28:42,295 - WARNING -  * Debugger is active!
+2025-10-15 12:28:42,457 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:43,941 - WARNING -  * Debugger is active!
+2025-10-15 12:28:43,949 - WARNING -  * Debugger is active!
+2025-10-15 12:28:43,964 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:43,974 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:43,999 - WARNING -  * Debugger is active!
+2025-10-15 12:28:44,029 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:28:48,401 - INFO - 127.0.0.1 - - [15/Oct/2025 12:28:48] "GET / HTTP/1.1" 200 -
+2025-10-15 12:29:01,656 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 12:29:01,657 - INFO - 127.0.0.1 - - [15/Oct/2025 12:29:01] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:29:11,448 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 12:29:11,451 - INFO - Cause list saved to: cause_list_20251015_122911.csv
+2025-10-15 12:29:11,452 - INFO - 127.0.0.1 - - [15/Oct/2025 12:29:11] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 12:29:15,609 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 12:29:15,611 - INFO - 127.0.0.1 - - [15/Oct/2025 12:29:15] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:29:18,181 - INFO - 127.0.0.1 - - [15/Oct/2025 12:29:18] "GET / HTTP/1.1" 200 -
+2025-10-15 12:29:21,862 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 12:29:21,864 - INFO - 127.0.0.1 - - [15/Oct/2025 12:29:21] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:31:43,134 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:43,445 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:43,481 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:43,493 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:44,100 - INFO -  * Restarting with stat
+2025-10-15 12:31:44,149 - INFO -  * Restarting with stat
+2025-10-15 12:31:44,183 - INFO -  * Restarting with stat
+2025-10-15 12:31:44,214 - INFO -  * Restarting with stat
+2025-10-15 12:31:48,645 - WARNING -  * Debugger is active!
+2025-10-15 12:31:48,683 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:31:48,733 - WARNING -  * Debugger is active!
+2025-10-15 12:31:48,759 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:31:48,844 - WARNING -  * Debugger is active!
+2025-10-15 12:31:48,871 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:31:48,926 - WARNING -  * Debugger is active!
+2025-10-15 12:31:48,952 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:31:58,039 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:58,051 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:58,133 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:58,280 - INFO -  * Restarting with stat
+2025-10-15 12:31:58,408 - INFO -  * Restarting with stat
+2025-10-15 12:31:58,443 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:31:58,586 - INFO -  * Restarting with stat
+2025-10-15 12:31:58,797 - INFO -  * Restarting with stat
+2025-10-15 12:32:02,065 - WARNING -  * Debugger is active!
+2025-10-15 12:32:02,088 - WARNING -  * Debugger is active!
+2025-10-15 12:32:02,189 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:02,190 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:02,259 - WARNING -  * Debugger is active!
+2025-10-15 12:32:02,382 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:02,524 - WARNING -  * Debugger is active!
+2025-10-15 12:32:02,592 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:06,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 12:32:06,770 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 12:32:06,773 - INFO -  * Restarting with stat
+2025-10-15 12:32:09,017 - WARNING -  * Debugger is active!
+2025-10-15 12:32:09,029 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:21,191 - INFO - 127.0.0.1 - - [15/Oct/2025 12:32:21] "GET / HTTP/1.1" 200 -
+2025-10-15 12:32:26,807 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:32:26,890 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:32:26,998 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:32:27,099 - INFO -  * Restarting with stat
+2025-10-15 12:32:27,137 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:32:27,436 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\ecourts_scraper.py', reloading
+2025-10-15 12:32:27,629 - INFO -  * Restarting with stat
+2025-10-15 12:32:27,819 - INFO -  * Restarting with stat
+2025-10-15 12:32:28,005 - INFO -  * Restarting with stat
+2025-10-15 12:32:28,172 - INFO -  * Restarting with stat
+2025-10-15 12:32:33,011 - WARNING -  * Debugger is active!
+2025-10-15 12:32:33,024 - WARNING -  * Debugger is active!
+2025-10-15 12:32:33,032 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:33,054 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:33,158 - WARNING -  * Debugger is active!
+2025-10-15 12:32:33,214 - WARNING -  * Debugger is active!
+2025-10-15 12:32:33,216 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:33,232 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:32:33,555 - WARNING -  * Debugger is active!
+2025-10-15 12:32:33,575 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:35:11,166 - INFO - 127.0.0.1 - - [15/Oct/2025 12:35:11] "GET / HTTP/1.1" 200 -
+2025-10-15 12:35:28,016 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 12:35:28,017 - INFO - 127.0.0.1 - - [15/Oct/2025 12:35:28] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:35:56,926 - INFO - Searching for case with CNR: MHMC02-654321-2022
+2025-10-15 12:35:56,927 - INFO - 127.0.0.1 - - [15/Oct/2025 12:35:56] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:36:07,774 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 12:36:07,778 - INFO - Cause list saved to: cause_list_20251015_123607.csv
+2025-10-15 12:36:07,780 - INFO - 127.0.0.1 - - [15/Oct/2025 12:36:07] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 12:36:34,158 - INFO - Searching for case with CNR: KLER03-111222-2021
+2025-10-15 12:36:34,162 - INFO - 127.0.0.1 - - [15/Oct/2025 12:36:34] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:37:01,904 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 12:37:01,907 - INFO - Cause list saved to: cause_list_20251015_123701.csv
+2025-10-15 12:37:01,909 - INFO - 127.0.0.1 - - [15/Oct/2025 12:37:01] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 12:37:05,768 - INFO - Searching for case with CNR: KLER03-111222-2021
+2025-10-15 12:37:05,769 - INFO - 127.0.0.1 - - [15/Oct/2025 12:37:05] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:37:13,491 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 12:37:13,496 - INFO - Cause list saved to: cause_list_20251015_123713.csv
+2025-10-15 12:37:13,498 - INFO - 127.0.0.1 - - [15/Oct/2025 12:37:13] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 12:37:15,825 - INFO - Searching for case with CNR: KLER03-111222-2021
+2025-10-15 12:37:15,827 - INFO - 127.0.0.1 - - [15/Oct/2025 12:37:15] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:37:36,367 - INFO - Searching for case with CNR: TNCH04-777888-2020
+2025-10-15 12:37:36,369 - INFO - 127.0.0.1 - - [15/Oct/2025 12:37:36] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:37:57,350 - INFO - Searching for case with CNR: RJJP05-333444-2019
+2025-10-15 12:37:57,352 - INFO - 127.0.0.1 - - [15/Oct/2025 12:37:57] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:52:51,268 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 12:52:51,269 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 12:52:51,275 - INFO -  * Restarting with stat
+2025-10-15 12:52:54,984 - WARNING -  * Debugger is active!
+2025-10-15 12:52:54,999 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:53:03,932 - INFO - 127.0.0.1 - - [15/Oct/2025 12:53:03] "GET / HTTP/1.1" 200 -
+2025-10-15 12:53:36,239 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 12:53:36,240 - INFO - 127.0.0.1 - - [15/Oct/2025 12:53:36] "POST /search HTTP/1.1" 200 -
+2025-10-15 12:54:01,372 - INFO - 127.0.0.1 - - [15/Oct/2025 12:54:01] "GET / HTTP/1.1" 200 -
+2025-10-15 12:54:02,181 - INFO - 127.0.0.1 - - [15/Oct/2025 12:54:02] "GET / HTTP/1.1" 200 -
+2025-10-15 12:54:02,644 - INFO - 127.0.0.1 - - [15/Oct/2025 12:54:02] "GET / HTTP/1.1" 200 -
+2025-10-15 12:54:02,811 - INFO - 127.0.0.1 - - [15/Oct/2025 12:54:02] "GET / HTTP/1.1" 200 -
+2025-10-15 12:54:43,096 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 12:54:43,098 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 12:54:43,102 - INFO -  * Restarting with stat
+2025-10-15 12:54:44,192 - WARNING -  * Debugger is active!
+2025-10-15 12:54:44,203 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:54:47,549 - INFO - 127.0.0.1 - - [15/Oct/2025 12:54:47] "GET / HTTP/1.1" 200 -
+2025-10-15 12:59:10,824 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 12:59:11,234 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 12:59:11,236 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 12:59:11,528 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 12:59:11,565 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 12:59:11,567 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 12:59:11,632 - INFO -  * Restarting with stat
+2025-10-15 12:59:11,712 - INFO -  * Restarting with stat
+2025-10-15 12:59:11,784 - INFO -  * Restarting with stat
+2025-10-15 12:59:12,098 - INFO -  * Restarting with stat
+2025-10-15 12:59:12,149 - INFO -  * Restarting with stat
+2025-10-15 12:59:12,170 - INFO -  * Restarting with stat
+2025-10-15 12:59:17,124 - WARNING -  * Debugger is active!
+2025-10-15 12:59:17,271 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:59:17,407 - WARNING -  * Debugger is active!
+2025-10-15 12:59:17,440 - WARNING -  * Debugger is active!
+2025-10-15 12:59:17,473 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:59:17,475 - WARNING -  * Debugger is active!
+2025-10-15 12:59:17,535 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:59:17,579 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:59:17,677 - WARNING -  * Debugger is active!
+2025-10-15 12:59:17,901 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:59:18,249 - WARNING -  * Debugger is active!
+2025-10-15 12:59:18,280 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 12:59:21,071 - INFO - 127.0.0.1 - - [15/Oct/2025 12:59:21] "GET / HTTP/1.1" 200 -
+2025-10-15 12:59:48,466 - INFO - 127.0.0.1 - - [15/Oct/2025 12:59:48] "GET / HTTP/1.1" 200 -
+2025-10-15 13:03:20,453 - INFO - 127.0.0.1 - - [15/Oct/2025 13:03:20] "GET / HTTP/1.1" 200 -
+2025-10-15 13:03:57,214 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:03:57,215 - INFO - 127.0.0.1 - - [15/Oct/2025 13:03:57] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:03:59,773 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:03:59,784 - INFO - Cause list saved to: cause_list_20251015_130359.csv
+2025-10-15 13:03:59,786 - INFO - 127.0.0.1 - - [15/Oct/2025 13:03:59] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:04:14,057 - INFO - 127.0.0.1 - - [15/Oct/2025 13:04:14] "GET /download/cause_list_20251015_130359.csv HTTP/1.1" 200 -
+2025-10-15 13:06:20,933 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:06:20,935 - INFO - 127.0.0.1 - - [15/Oct/2025 13:06:20] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:06:26,324 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:06:26,327 - INFO - Cause list saved to: cause_list_20251015_130626.csv
+2025-10-15 13:06:26,329 - INFO - 127.0.0.1 - - [15/Oct/2025 13:06:26] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:06:28,798 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:06:28,801 - INFO - 127.0.0.1 - - [15/Oct/2025 13:06:28] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:06:38,307 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 13:06:38,309 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 13:06:38,316 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 13:06:38,326 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 13:06:38,493 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 13:06:38,494 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Python Project\\demo_script.py', reloading
+2025-10-15 13:06:38,972 - INFO -  * Restarting with stat
+2025-10-15 13:06:38,976 - INFO -  * Restarting with stat
+2025-10-15 13:06:39,007 - INFO -  * Restarting with stat
+2025-10-15 13:06:39,014 - INFO -  * Restarting with stat
+2025-10-15 13:06:39,095 - INFO -  * Restarting with stat
+2025-10-15 13:06:39,397 - INFO -  * Restarting with stat
+2025-10-15 13:06:42,416 - WARNING -  * Debugger is active!
+2025-10-15 13:06:42,480 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:06:42,480 - WARNING -  * Debugger is active!
+2025-10-15 13:06:42,665 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:06:42,772 - WARNING -  * Debugger is active!
+2025-10-15 13:06:42,899 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:06:43,049 - WARNING -  * Debugger is active!
+2025-10-15 13:06:43,067 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:06:43,405 - WARNING -  * Debugger is active!
+2025-10-15 13:06:43,421 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:06:43,608 - WARNING -  * Debugger is active!
+2025-10-15 13:06:43,622 - INFO -  * Debugger PIN: 907-187-684

@@ -1,0 +1,25 @@
+{
+  "cause_list": [
+    {
+      "serial_number": "1",
+      "case_number": "12345/2023",
+      "case_title": "Sample Case 1",
+      "petitioner": "John Doe",
+      "respondent": "Jane Smith",
+      "advocate": "Advocate ABC",
+      "court_room": "Room 1",
+      "time": "10:00 AM"
+    },
+    {
+      "serial_number": "2",
+      "case_number": "67890/2023",
+      "case_title": "Sample Case 2",
+      "petitioner": "Alice Johnson",
+      "respondent": "Bob Wilson",
+      "advocate": "Advocate XYZ",
+      "court_room": "Room 2",
+      "time": "11:00 AM"
+    }
+  ],
+  "cause_list_file": "demo_output\\cause_list.csv"
+}

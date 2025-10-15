@@ -1,0 +1,6 @@
+serial_number,case_number,case_title,petitioner,respondent,advocate,court_room,time
+1,12345/2023,Sample Case 1,John Doe,Jane Smith,Advocate ABC,Room 1,10:00 AM
+2,67890/2023,Sample Case 2,Alice Johnson,Bob Wilson,Advocate XYZ,Room 2,11:00 AM
+3,22222/2022,Ravi Kumar vs. State,Ravi Kumar,State,Adv. Mehta,Room 3,11:30 AM
+4,33333/2021,Sita Devi vs. Nagar Nigam,Sita Devi,Nagar Nigam,Adv. Rao,Room 4,12:00 PM
+5,44444/2020,Om Prakash vs. Insurance Co.,Om Prakash,National Insurance,Adv. Khan,Room 5,12:30 PM

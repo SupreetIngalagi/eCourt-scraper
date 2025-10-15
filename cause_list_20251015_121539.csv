@@ -1,0 +1,3 @@
+serial_number,case_number,case_title,petitioner,respondent,advocate,court_room,time
+1,12345/2023,Sample Case 1,John Doe,Jane Smith,Advocate ABC,Room 1,10:00 AM
+2,67890/2023,Sample Case 2,Alice Johnson,Bob Wilson,Advocate XYZ,Room 2,11:00 AM
