@@ -488,3 +488,91 @@
 2025-10-15 13:06:43,421 - INFO -  * Debugger PIN: 907-187-684
 2025-10-15 13:06:43,608 - WARNING -  * Debugger is active!
 2025-10-15 13:06:43,622 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:14:45,866 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:14:45,870 - INFO - Cause list saved to: cause_list_20251015_131445.csv
+2025-10-15 13:14:45,872 - INFO - 127.0.0.1 - - [15/Oct/2025 13:14:45] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:14:48,017 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:14:48,018 - INFO - 127.0.0.1 - - [15/Oct/2025 13:14:48] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:15:04,007 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 13:15:04,008 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 13:15:04,012 - INFO -  * Restarting with stat
+2025-10-15 13:15:05,716 - WARNING -  * Debugger is active!
+2025-10-15 13:15:05,737 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:15:09,329 - INFO - 127.0.0.1 - - [15/Oct/2025 13:15:09] "GET / HTTP/1.1" 200 -
+2025-10-15 13:15:15,344 - INFO - 127.0.0.1 - - [15/Oct/2025 13:15:15] "GET / HTTP/1.1" 200 -
+2025-10-15 13:15:37,854 - INFO - 127.0.0.1 - - [15/Oct/2025 13:15:37] "GET / HTTP/1.1" 200 -
+2025-10-15 13:15:39,723 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:15:39,729 - INFO - Cause list saved to: cause_list_20251015_131539.csv
+2025-10-15 13:15:39,730 - INFO - 127.0.0.1 - - [15/Oct/2025 13:15:39] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:16:18,914 - INFO - Searching for case with CNR: RJJP05-333444-2019
+2025-10-15 13:16:18,916 - INFO - 127.0.0.1 - - [15/Oct/2025 13:16:18] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:16:24,170 - INFO - Searching for case with CNR: RJJP05-333444-2018
+2025-10-15 13:16:24,172 - INFO - 127.0.0.1 - - [15/Oct/2025 13:16:24] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:16:29,698 - INFO - Searching for case with CNR: RJJP05-333444-2019
+2025-10-15 13:16:29,700 - INFO - 127.0.0.1 - - [15/Oct/2025 13:16:29] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:16:58,156 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 13:16:58,159 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 13:16:58,359 - INFO -  * Restarting with stat
+2025-10-15 13:17:00,703 - WARNING -  * Debugger is active!
+2025-10-15 13:17:00,821 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:17:04,131 - INFO - 127.0.0.1 - - [15/Oct/2025 13:17:04] "GET / HTTP/1.1" 200 -
+2025-10-15 13:27:00,823 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 13:27:00,971 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 13:27:00,979 - INFO -  * Restarting with stat
+2025-10-15 13:27:02,785 - WARNING -  * Debugger is active!
+2025-10-15 13:27:02,796 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:27:28,446 - INFO - 127.0.0.1 - - [15/Oct/2025 13:27:28] "GET / HTTP/1.1" 200 -
+2025-10-15 13:27:49,783 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:27:49,784 - INFO - 127.0.0.1 - - [15/Oct/2025 13:27:49] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:27:52,870 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:27:52,873 - INFO - Cause list saved to: cause_list_20251015_132752.csv
+2025-10-15 13:27:52,875 - INFO - 127.0.0.1 - - [15/Oct/2025 13:27:52] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:27:55,008 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:27:55,009 - INFO - 127.0.0.1 - - [15/Oct/2025 13:27:55] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:27:56,229 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:27:56,233 - INFO - Cause list saved to: cause_list_20251015_132756.csv
+2025-10-15 13:27:56,235 - INFO - 127.0.0.1 - - [15/Oct/2025 13:27:56] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:30:09,761 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-10-15 13:30:09,767 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 13:30:09,772 - INFO -  * Restarting with stat
+2025-10-15 13:30:11,214 - WARNING -  * Debugger is active!
+2025-10-15 13:30:11,225 - INFO -  * Debugger PIN: 907-187-684
+2025-10-15 13:30:14,240 - INFO - 127.0.0.1 - - [15/Oct/2025 13:30:14] "GET / HTTP/1.1" 200 -
+2025-10-15 13:30:27,678 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:30:27,679 - INFO - 127.0.0.1 - - [15/Oct/2025 13:30:27] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:30:28,829 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:30:28,832 - INFO - Cause list saved to: cause_list_20251015_133028.csv
+2025-10-15 13:30:28,834 - INFO - 127.0.0.1 - - [15/Oct/2025 13:30:28] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:30:29,786 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:30:29,826 - INFO - 127.0.0.1 - - [15/Oct/2025 13:30:29] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:30:30,516 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:30:30,519 - INFO - Cause list saved to: cause_list_20251015_133030.csv
+2025-10-15 13:30:30,521 - INFO - 127.0.0.1 - - [15/Oct/2025 13:30:30] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:32:56,021 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:32:56,024 - INFO - Cause list saved to: cause_list_20251015_133256.csv
+2025-10-15 13:32:56,026 - INFO - 127.0.0.1 - - [15/Oct/2025 13:32:56] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:32:57,664 - INFO - Searching for case with CNR: DLCT01-123456-2023
+2025-10-15 13:32:57,665 - INFO - 127.0.0.1 - - [15/Oct/2025 13:32:57] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:34:34,988 - INFO - 127.0.0.1 - - [15/Oct/2025 13:34:34] "GET / HTTP/1.1" 200 -
+2025-10-15 13:35:22,107 - INFO - 127.0.0.1 - - [15/Oct/2025 13:35:22] "GET / HTTP/1.1" 200 -
+2025-10-15 13:35:22,949 - INFO - 127.0.0.1 - - [15/Oct/2025 13:35:22] "GET / HTTP/1.1" 200 -
+2025-10-15 13:36:40,675 - INFO - 127.0.0.1 - - [15/Oct/2025 13:36:40] "GET / HTTP/1.1" 200 -
+2025-10-15 13:37:11,508 - INFO - Searching for case with CNR: TNCH04-777888-2020
+2025-10-15 13:37:11,509 - INFO - 127.0.0.1 - - [15/Oct/2025 13:37:11] "POST /search HTTP/1.1" 200 -
+2025-10-15 13:37:13,059 - INFO - Fetching cause list for court 01 on 15/10/2025
+2025-10-15 13:37:13,062 - INFO - Cause list saved to: cause_list_20251015_133713.csv
+2025-10-15 13:37:13,064 - INFO - 127.0.0.1 - - [15/Oct/2025 13:37:13] "POST /causelist HTTP/1.1" 200 -
+2025-10-15 13:37:17,037 - INFO - Searching for case with CNR: TNCH04-777888-2020
+2025-10-15 13:37:17,039 - INFO - 127.0.0.1 - - [15/Oct/2025 13:37:17] "POST /search HTTP/1.1" 200 -
